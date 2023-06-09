@@ -1,3 +1,6 @@
+# As of June 9, 2023, this is now an archive
+**dmkilday** has taken over the master copy at https://github.com/dmkilday/GameMasterGPT.
+
 # faith-n-tech_d7d
 Running a D&amp;D bot via OpenAI API 
 
